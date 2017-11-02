@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/uadjet/TestSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+The full site can be found [here](https://uadjet.github.io/TestSite/)
+
 
 ## Sample Viz include
 

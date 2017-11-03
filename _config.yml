@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 
 
-title: [UCSF Delirium Program]
-description: [A site to help visualize and understand progress and program objectives]
+title: "UCSF Delirium Program"
+description: "A site to help visualize and understand progress and program objectives"
+show_downloads: "false"
